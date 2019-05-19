@@ -9,3 +9,15 @@ In my imagination , this game is a cat's adventure . In the valley of MeMeow , t
 Now , let's code this game . 
 
 amomao come here Meow
+
+需求：
+1.增加升级需要多少经验值的功能
+2.增加不同的百科知识题库
+3.增加循环做题功能
+4.增加角色防御的战斗动作
+5.增加怪物闪避等战斗动作
+6.修复提示获得经验值的文本
+7.修改做百科题的过程中出现重复题目的bug。减少奖励或者减少重复。
+8.持续美化UI
+9.增加图形界面
+10.给角色与怪物的增添随机数
